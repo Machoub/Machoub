@@ -1,6 +1,6 @@
 # 👤 Mehdi Adel Achouba (“Machoub”)
 
-Welcome to my GitHub profile! I’m a 42 Paris student and developer with a background in finance, system administration, and programming. Below you’ll find a quick overview of who I am, what I’ve built, and where to find my work.
+Welcome to my GitHub profile! I’m a 42 Paris student and developer with a background in finance, Devops, and programming. Below you’ll find a quick overview of who I am, what I’ve built, and where to find my work.
 
 ---
 
