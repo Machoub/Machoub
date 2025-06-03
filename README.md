@@ -64,6 +64,9 @@ I have over 5 years of experience in management control, primarily using Excel a
   2. **Part 2 – Utility Functions** (`ft_substr`, `ft_strjoin`, `ft_split`, etc.)  
   3. **Bonus – Linked List** (`ft_lstnew`, `ft_lstadd_back`, `ft_lstsize`, etc.)  
 
+- **[ft_printf](https://github.com/machouba/ft_printf)**  
+  Custom implementation of the standard `printf` function in C. Supports `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, and `%%` with formatted output using only `write`.
+
 - **[Get Next Line](https://github.com/Machoub/get_next_line)**  
   Read one line at a time from a file descriptor. Handles any `BUFFER_SIZE` and supports multiple file descriptors in the bonus.
 
