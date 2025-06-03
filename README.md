@@ -85,6 +85,9 @@ I have over 5 years of experience in management control, primarily using Excel a
 - **[Cub3D](https://github.com/machouba/cub3d)**  
   A Wolfenstein-style raycaster using MiniLibX. Parse a `.cub` file, render walls, floors, ceilings, and sprites in 3D.
 
+- **[CPP_MODULES](https://github.com/machouba/CPP_MODULES)**  
+  A single repository containing all C++ modules (00 through 09) from the 42 curriculum, covering basics, OOP, templates, exception handling, file I/O, design patterns, memory management, and concurrency.
+
 - **[NetPractice](https://github.com/machouba/netpractice)**  
   Browser-based network simulator: configure IPv4 addresses, subnets, gateways, and routes to ensure connectivity between hosts.
 
