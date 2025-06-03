@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a 42 Paris student and developer with a back
 - **Name**: Mehdi Adel Achouba  
 - **Login**: `Machoub`  
 - **Location**: Paris, France  
-- **Education**: 42 Paris (École 42) && MBA Consulting, Auditing and Financial controller
+- **Education**: 42 Paris && MBA Consulting, Auditing and Financial controller
 - **Email**: mehdi.adel.achouba@gmail.com  
 - **LinkedIn**: [linkedin.com/in/mehdi-achouba](https://linkedin.com/in/mehdi-achouba)  
 
