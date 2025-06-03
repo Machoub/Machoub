@@ -101,7 +101,7 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 ## 💼 Professional Experience (Management Control)
 
-During over 5 years in management control, I:
+During over 5 years in management control:
 
 - Built **Excel models** and dashboards to monitor KPIs.  
 - Wrote and optimized **SQL queries** for data extraction, transformation, and reporting.  
