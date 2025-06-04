@@ -21,10 +21,10 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 - **Languages**  
   - C, C++     
-  - SQL (financial reporting at work)  
-  - Bash / Shell scripting  
   - Python (intermediate)
   - Javascript and Typescript
+  - SQL (financial reporting at work)  
+  - Bash / Shell scripting  
 
 - **Frameworks & Libraries**  
   - LibX (graphics)  
