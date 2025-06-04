@@ -24,19 +24,18 @@ I have over 5 years of experience in management control, primarily using Excel a
   - C++ (school projects)  
   - SQL (financial reporting at work)  
   - Bash / Shell scripting  
-  - Python (intermediate)  
+  - Python (intermediate)
+  - Javascript  
 
 - **Frameworks & Libraries**  
-  - MiniLibX (graphics)  
-  - POSIX threads, pthread mutexes  
+  - LibX (graphics)  
+  - Fastify (Web)
 
 - **Tools & Platforms**  
-  - Docker (Inception project at 42)  
+  - Docker and Docker-compose (Inception project at 42)  
   - Git & GitHub (version control)  
-  - Makefile (build automation)  
-  - Valgrind (memory checks)  
-  - VirtualBox (Born2beroot VM)  
-  - Microsoft Excel (financial models)  
+  - Microsoft Excel and powerBI (financial models)
+  - GDB Debugger Commands (Linux)
 
 - **Areas of Expertise**  
   - Financial reporting (Excel, SQL)  
@@ -46,7 +45,7 @@ I have over 5 years of experience in management control, primarily using Excel a
   - Process control and piping (Pipex)  
   - Stack sorting algorithms (Push_Swap)  
   - 2D & 3D graphics (So_Long, Cub3D)  
-  - Concurrency & synchronization (Philosophers)  
+  - threads (Philosophers)  
   - Shell implementation (Minishell)  
 
 ---
