@@ -20,7 +20,7 @@ I have over 5 years of experience in management control, primarily using Excel a
 ## 🛠️ Skills & Technologies
 
 - **Languages**  
-  - C & C++     
+  - C, C++     
   - SQL (financial reporting at work)  
   - Bash / Shell scripting  
   - Python (intermediate)
