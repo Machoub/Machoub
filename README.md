@@ -40,7 +40,7 @@ I have over 5 years of experience in management control, primarily using Excel a
   - Data analyse: financial reporting (Excel, SQL, powerBI)  
   - Algorithms & data structures: sorting, optimization  
   - AI & Game logic: basic AI systems (Pong AI, matchmaking, 2FA)  
-  - DevOps & Containers: Docker, Docker Compose, CI/CD workflows  
+  - DevOps & Containers: Docker, Docker Compose  
 
 ---
 
