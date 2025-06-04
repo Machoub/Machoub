@@ -20,12 +20,12 @@ I have over 5 years of experience in management control, primarily using Excel a
 ## 🛠️ Skills & Technologies
 
 - **Languages**  
-  - C (expert)  
-  - C++ (school projects)  
+  - C  
+  - C++    
   - SQL (financial reporting at work)  
   - Bash / Shell scripting  
   - Python (intermediate)
-  - Javascript  
+  - Javascript and Typescript
 
 - **Frameworks & Libraries**  
   - LibX (graphics)  
@@ -38,15 +38,10 @@ I have over 5 years of experience in management control, primarily using Excel a
   - GDB Debugger Commands (Linux)
 
 - **Areas of Expertise**  
-  - Financial reporting (Excel, SQL)  
-  - System administration & security (Born2beroot)  
-  - Custom static libraries (Libft)  
-  - File I/O and buffer handling (Get Next Line)  
-  - Process control and piping (Pipex)  
-  - Stack sorting algorithms (Push_Swap)  
-  - 2D & 3D graphics (So_Long, Cub3D)  
-  - threads (Philosophers)  
-  - Shell implementation (Minishell)  
+  - Data analyse: financial reporting (Excel, SQL, powerBI)  
+  - Algorithms & data structures: sorting, optimization  
+  - AI & Game logic: basic AI systems (Pong AI, matchmaking, 2FA)  
+  - DevOps & Containers: Docker, Docker Compose, CI/CD workflows  
 
 ---
 
