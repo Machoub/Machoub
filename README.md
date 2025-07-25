@@ -48,6 +48,15 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 > Each project has its own repository—click the links to explore code, build instructions, and detailed READMEs.
 
+- **[Python_for_data_science](https://github.com/Machoub/Python_for_data_science)**
+  Intro to data science using Python: numpy, pandas, datatable, matplotlib, and image processing with array. Includes OOP principles and Data-Oriented Design (DOD) for analysis and visualization projects.
+
+- **[Ft_transcendence](https://github.com/ayoubkhm/ft_transcendence)**
+  Real-time Pong game with tournaments, Google OAuth2 authentication, and user profiles. Built with Fastify (Node.js), Vite (TypeScript), PostgreSQL, and Docker in a microservices architecture.
+
+- **[CPP_MODULES](https://github.com/Machoub/CPP_MODULES)**  
+  A single repository containing all C++ modules (00 through 09) from the 42 curriculum, covering basics, OOP, templates, exception handling, file I/O, design patterns, memory management, and concurrency.
+
 - **[Born2beroot](https://github.com/Machoub/born2beroot)**  
   System administration basics on Debian/VirtualBox. Encrypted LVM, UFW, strong password policies, strict `sudo`, and a custom `monitoring.sh`. Grade: 125%.
 
@@ -80,9 +89,6 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 - **[Cub3D](https://github.com/Machoub/cub3d)**  
   A Wolfenstein-style raycaster using MiniLibX. Parse a `.cub` file, render walls, floors, ceilings, and sprites in 3D.
-
-- **[CPP_MODULES](https://github.com/Machoub/CPP_MODULES)**  
-  A single repository containing all C++ modules (00 through 09) from the 42 curriculum, covering basics, OOP, templates, exception handling, file I/O, design patterns, memory management, and concurrency.
 
 - **[NetPractice](https://github.com/Machoub/netpractice)**  
   Browser-based network simulator: configure IPv4 addresses, subnets, gateways, and routes to ensure connectivity between hosts.
