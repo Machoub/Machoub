@@ -21,7 +21,7 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 - **Languages**  
   - C, C++     
-  - Python (intermediate)
+  - Python
   - Javascript and Typescript
   - SQL (financial reporting at work)  
   - Bash / Shell scripting  
@@ -48,11 +48,20 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 > Each project has its own repository—click the links to explore code, build instructions, and detailed READMEs.
 
+- **[Piscine Data Science](https://github.com/Machoub/Piscine_Data_Science)**  
+  Intensive 42 bootcamp covering the full data pipeline:  
+  **Data Engineer** – Dockerized PostgreSQL + pgAdmin, fast ETL from CSVs directly in DB.  
+  **Data Warehouse** – Data merging, cleaning, deduplication, optimized SQL workflows.  
+  **Data Analyst & Advanced DS** – Statistical analysis, clustering, supervised/unsupervised ML, and data visualization.
+
 - **[Python_for_data_science](https://github.com/Machoub/Python_for_data_science)**
   Intro to data science using Python: numpy, pandas, datatable, matplotlib, and image processing with array. Includes OOP principles and Data-Oriented Design (DOD) for analysis and visualization projects.
 
 - **[Ft_transcendence](https://github.com/ayoubkhm/ft_transcendence)**
   Real-time Pong game with tournaments, Google OAuth2 authentication, and user profiles. Built with Fastify (Node.js), Vite (TypeScript), PostgreSQL, and Docker in a microservices architecture.
+
+- **[Ftl_quantum](https://github.com/Machoub/Ftl_quantum)**  
+  Introduction to quantum computing with Python and Qiskit (IBM). Covered quantum states, gates, and noise mitigation, and implemented key algorithms such as Deutsch–Jozsa, Simon, Grover, and Shor. Ran circuits on both simulators and real IBM Quantum devices.
 
 - **[CPP_MODULES](https://github.com/Machoub/CPP_MODULES)**  
   A single repository containing all C++ modules (00 through 09) from the 42 curriculum, covering basics, OOP, templates, exception handling, file I/O, design patterns, memory management, and concurrency.
