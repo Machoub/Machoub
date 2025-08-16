@@ -63,6 +63,9 @@ I have over 5 years of experience in management control, primarily using Excel a
 - **[Ftl_quantum](https://github.com/Machoub/Ftl_quantum)**  
   Introduction to quantum computing with Python and Qiskit (IBM). Covered quantum states, gates, and noise mitigation, and implemented key algorithms such as Deutsch–Jozsa, Simon, Grover, and Shor. Ran circuits on both simulators and real IBM Quantum devices.
 
+- **[Ft_IRC](https://github.com/Machoub/ft_irc)**  
+  An IRC server developed in C++98, following the IRC Protocol RFC 1459, and designed to handle multiple simultaneous client connections via TCP/IP in non-blocking mode.
+
 - **[CPP_MODULES](https://github.com/Machoub/CPP_MODULES)**  
   A single repository containing all C++ modules (00 through 09) from the 42 curriculum, covering basics, OOP, templates, exception handling, file I/O, design patterns, memory management, and concurrency.
 
