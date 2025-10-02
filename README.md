@@ -48,6 +48,10 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 > Each project has its own repository—click the links to explore code, build instructions, and detailed READMEs.
 
+- **[Bootcamp_neural_network](https://github.com/Machoub/Bootcamp_neural_network)**  
+  A 3-day deep learning bootcamp at 42 where I learned to build and train CNNs and RNNs using TensorFlow and Keras.
+  The program focused on image and sequence data, covering key architectures like convolutional and recurrent neural networks.
+
 - **[DSLR](https://github.com/Machoub/DSLR)**  
   A machine learning project that implements logistic regression from scratch to classify students into Hogwarts houses based on their features.
   It includes data analysis, visualization, and a modular one-vs-all classifier for multi-class prediction.
