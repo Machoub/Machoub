@@ -48,7 +48,7 @@ I have over 5 years of experience in management control, primarily using Excel a
 
 > Each project has its own repository—click the links to explore code, build instructions, and detailed READMEs.
 
-- **[Piscine Data Science](https://github.com/Machoub/DSLR)**  
+- **[DSLR](https://github.com/Machoub/DSLR)**  
   A machine learning project that implements logistic regression from scratch to classify students into Hogwarts houses based on their features.
   It includes data analysis, visualization, and a modular one-vs-all classifier for multi-class prediction.
 
