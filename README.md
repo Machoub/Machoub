@@ -13,34 +13,38 @@ Welcome to my GitHub profile! I’m a 42 Paris student and developer with a back
 - **Email**: mehdi.adel.achouba@gmail.com  
 - **LinkedIn**: [linkedin.com/in/mehdi-achouba](https://linkedin.com/in/mehdi-achouba)  
 
-I have over 5 years of experience in management control, primarily using Excel and SQL to generate reports and analyze financial data. At 42, I’ve expanded into low-level programming, Docker, and C++ projects, focusing on clean code and system design.
+Highly versatile professional with 5+ years in financial control and deep expertise in SQL/Excel reporting. I now build upon this foundation with proficiency in Machine Learning (Python/TensorFlow) for predictive analytics. My technical rigor extends to C++ and Docker for robust system design and deployment, creating a unique data-to-system profile.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 - **Languages**  
-  - C, C++     
-  - Python
-  - Javascript and Typescript
-  - SQL (financial reporting at work)  
+  - Python (advanced – Data Science, ML, scripting)    
+  - C / C++ (algorithmic, system programming)
+  - TypeScript / JavaScript (backend Fastify, web logic)
+  - SQL (PostgreSQL, data analytics & financial reporting)  
   - Bash / Shell scripting  
 
 - **Frameworks & Libraries**  
-  - LibX (graphics)  
+  - TensorFlow, PyTorch, Scikit-learn (machine learning & deep learning)
+  - Pandas, NumPy, Matplotlib, PySpark (data analysis & ETL)
   - Fastify (Web)
 
 - **Tools & Platforms**  
-  - Docker and Docker-compose (Inception project at 42)  
-  - Git & GitHub (version control)  
-  - Microsoft Excel and powerBI (financial models)
-  - GDB Debugger Commands (Linux)
+  - Docker & Docker Compose (DevOps & containerization)
+  - Kubernetes (K3s/K3d) & GitOps (Argo CD, GitLab CI/CD)
+  - Git & GitHub (version control & collaboration)
+  - PostgreSQL / PgAdmin (data storage & visualization)
+  - Linux, GDB Debugger
+  - Excel & Power BI (data visualization & KPIs)
 
 - **Areas of Expertise**  
-  - Data analyse: financial reporting (Excel, SQL, powerBI)  
-  - Algorithms & data structures: sorting, optimization  
-  - AI & Game logic: basic AI systems (Pong AI, matchmaking, 2FA)  
-  - DevOps & Containers: Docker, Docker Compose  
+  - Data Engineering & Analytics: ETL pipelines, PostgreSQL, PySpark, Power BI
+  - Machine Learning & AI: regression, classification, MLPs, model evaluation (Scikit-learn / TensorFlow)  
+  - DevOps: CI/CD pipelines, container orchestration (Docker, K3s)  
+  - Financial Analysis: automation, KPIs, SQL-based reporting
+  - Software & Game Logic: Pong AI, matchmaking system, 2FA auth 
 
 ---
 
@@ -51,6 +55,14 @@ I have over 5 years of experience in management control, primarily using Excel a
 - **[Bootcamp_neural_network](https://github.com/Machoub/Bootcamp_neural_network)**  
   A 3-day deep learning bootcamp at 42 where I learned to build and train CNNs and RNNs using TensorFlow and Keras.
   The program focused on image and sequence data, covering key architectures like convolutional and recurrent neural networks.
+
+- **[First_ETL_Spark](https://github.com/Machoub/First_ETL_Spark)**  
+  This mini-project focuses on establishing a Spark Session using PySpark in Python to perform a basic distributed ETL pipeline.
+  It demonstrates reading data, applying transformations (e.g., filtering, aggregation), and loading the results to a target location.
+
+- **[ft_linear_regression](https://github.com/Machoub/ft_linear_regression)**  
+  project from 42 School is an introductory machine learning assignment. It focuses on implementing univariate linear regression from scratch to predict numerical values based on a single input feature.
+  Typically using the Gradient Descent algorithm to find the optimal model parameters.
 
 - **[DSLR](https://github.com/Machoub/DSLR)**  
   A machine learning project that implements logistic regression from scratch to classify students into Hogwarts houses based on their features.
