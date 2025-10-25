@@ -31,7 +31,9 @@ Highly versatile professional with 5+ years in financial control and deep expert
   - Pandas, NumPy, Matplotlib, PySpark (data analysis & ETL)
   - Fastify (Web)
 
-- **Tools & Platforms**  
+- **Tools & Platforms**
+  - AWS (S3,Lambda,step,glue)
+  - Snowflak (snowpipe)   
   - Docker & Docker Compose (DevOps & containerization)
   - Kubernetes (K3s/K3d) & GitOps (Argo CD, GitLab CI/CD)
   - Git & GitHub (version control & collaboration)
@@ -51,6 +53,9 @@ Highly versatile professional with 5+ years in financial control and deep expert
 ## 📂 Highlighted 42 Projects
 
 > Each project has its own repository—click the links to explore code, build instructions, and detailed READMEs.
+
+- **[adzuna_spark_aws_snowflake_etl](https://github.com/Machoub/adzuna_spark_aws_snowflake_etl)**  
+  Building an End-to-End ETL Pipeline with AWS, Snowflake, Apache Spark using Adzuna public API
 
 - **[Bootcamp_neural_network](https://github.com/Machoub/Bootcamp_neural_network)**  
   A 3-day deep learning bootcamp at 42 where I learned to build and train CNNs and RNNs using TensorFlow and Keras.
